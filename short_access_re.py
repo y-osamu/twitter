@@ -19,6 +19,7 @@ keys = {
 
 filename = "newtweet.text"
 
+
 def initilize(timeline):
     global last
     i = 0
@@ -118,7 +119,6 @@ def test():
 
 if __name__ == '__main__':
     main(initilize)
-
     schedule.every(5).minutes.do(test)
     while True:
         schedule.run_pending()
