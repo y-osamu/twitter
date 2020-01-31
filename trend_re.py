@@ -7,10 +7,10 @@ import calendar
 
 
 keys = {
-            "CK": "LzaQUb4iBsmRzNQsSLQ2qvfR6",
-            "CS": "RS2mWhCrF5RH2bl7acvx0oTQjE1OBNaJ8EECipdWqDtr7dHm44",
-            "AT": "706671194389393409-9CgeVYb5evzCNH8iTVaBW8xVitucloM",
-            "AS": "c9cQ2RMJqofG8irPcbwRVBx3hYBkAhSVToOpXLGyPO1Od",
+            "CK": "",
+            "CS": "",
+            "AT": "",
+            "AS": "",
         }
 
 class TweetInfo:
